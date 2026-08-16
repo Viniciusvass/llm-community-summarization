@@ -1,0 +1,239 @@
+Comunidade 6
+Método: TFIDF
+Medida: INTERMEDIACAO
+Termos:
+'algorithm,model,probabilities,computational,bayesian,paper,complexity,approach,diagrams,network'
+
+Comunidade 6
+Método: CHI
+Medida: INTERMEDIACAO
+Termos:
+'algorithms,model,probability,approach,decision,bayesian networks,set,function,time,reasoner'
+
+Comunidade 6
+Método: BNS
+Medida: INTERMEDIACAO
+Termos:
+'set,function,bayesian networks,observations,estimation,practice,uncertainty,evaluation,theoretical,definitions'
+
+Comunidade 6
+Método: WRS
+Medida: INTERMEDIACAO
+Termos:
+'consistency,cp-nets,computational complexity,localization,reasoner,constructive,link,bayesian net,complexity,reductions'
+
+Comunidade 80
+Método: TFIDF
+Medida: INTERMEDIACAO
+Termos:
+'network,probabilities,bayesian,algorithms,inference,model,bayesian network,approximations,probabilistic,reasoning'
+
+Comunidade 80
+Método: CHI
+Medida: INTERMEDIACAO
+Termos:
+'networks,algorithms,model,bayesian,probability,inference,belief,approximations,probabilistic,variables'
+
+Comunidade 80
+Método: BNS
+Medida: INTERMEDIACAO
+Termos:
+'partial,parameters,definitions,abstract,operations,limitations,correct,value function,clique,empirical evaluation'
+
+Comunidade 80
+Método: WRS
+Medida: INTERMEDIACAO
+Termos:
+'engineering,knowledge engineering,implications,infinitesimal,qualitative probabilistic,fault,inference bayesian,causal independence,evidence,approximate inference'
+
+Comunidade 104
+Método: TFIDF
+Medida: INTERMEDIACAO
+Termos:
+'network,models,belief,method,algorithms,decision,bayesian,approach,function,probability'
+
+Comunidade 104
+Método: CHI
+Medida: INTERMEDIACAO
+Termos:
+'model,bayesian,method,probability,paper,approach,decision,belief,approximations,probabilistic'
+
+Comunidade 104
+Método: BNS
+Medida: INTERMEDIACAO
+Termos:
+'bayesian networks,graphical,causal,joint,structure,uncertainty,parameters,definitions,cluster,steps'
+
+Comunidade 104
+Método: WRS
+Medida: INTERMEDIACAO
+Termos:
+'degrees belief,aspects,decision process,scheduling,first-order,default,agent,elicitation,utility functions,degrees'
+
+Comunidade 116
+Método: TFIDF
+Medida: INTERMEDIACAO
+Termos:
+'possibilistic,network,theory,possibility,knowledge,fuzzy,uncertainty,user,paper,decision'
+
+Comunidade 116
+Método: CHI
+Medida: INTERMEDIACAO
+Termos:
+'method,paper,inference,probabilistic,bayesian networks,set,representation,knowledge,process,causal'
+
+Comunidade 116
+Método: BNS
+Medida: INTERMEDIACAO
+Termos:
+'inference,observations,conditional probability,joint,parameters,limitations,classification,independent,application,method'
+
+Comunidade 116
+Método: WRS
+Medida: INTERMEDIACAO
+Termos:
+'possibilistic,linguistic,fuzzy,fuzzy sets,goals,possibility theory,possibilistic logic,possibility,ordinal,thresholds'
+
+Comunidade 134
+Método: TFIDF
+Medida: INTERMEDIACAO
+Termos:
+'algorithm,networking,optimal,models,policy,approach,controllers,decision,value,solution'
+
+Comunidade 134
+Método: CHI
+Medida: INTERMEDIACAO
+Termos:
+'algorithms,method,probability,paper,approach,decision,approximations,variables,conditional,structure'
+
+Comunidade 134
+Método: BNS
+Medida: INTERMEDIACAO
+Termos:
+'set,function,knowledge,estimation,structure,paper,definitions,limitations,correct,first-order'
+
+Comunidade 134
+Método: WRS
+Medida: INTERMEDIACAO
+Termos:
+'heuristic,policy,optimal,policy iteration,online,version,markov decision,incremental,stochastic,quality'
+
+Comunidade 145
+Método: TFIDF
+Medida: INTERMEDIACAO
+Termos:
+'methods,algorithm,approximations,distribution,model,linear,variables,learning,planning,function'
+
+Comunidade 145
+Método: CHI
+Medida: INTERMEDIACAO
+Termos:
+'model,paper,approximations,variables,value,function,optimal,independent,uncertainty,sample'
+
+Comunidade 145
+Método: BNS
+Medida: INTERMEDIACAO
+Termos:
+'partial,uncertainty,evaluation,value function,bns,continuous,map,likelihood,model,variables'
+
+Comunidade 145
+Método: WRS
+Medida: INTERMEDIACAO
+Termos:
+'model-based,prioritized,response,reinforcement,bayesian belief network,features,loops,reinforcement learning,independent,sample'
+
+Comunidade 151
+Método: TFIDF
+Medida: INTERMEDIACAO
+Termos:
+'algorithm,models,inference,and/or,graphical,graphical models,network,approximate,propagation,beliefs'
+
+Comunidade 151
+Método: CHI
+Medida: INTERMEDIACAO
+Termos:
+'networks,bayesian,method,paper,inference,decision,belief,probabilistic,conditional,structure'
+
+Comunidade 151
+Método: BNS
+Medida: INTERMEDIACAO
+Termos:
+'complexity,inference,true,structure,decision,paper,partition,random variables,classification,search'
+
+Comunidade 151
+Método: WRS
+Medida: INTERMEDIACAO
+Termos:
+'elimination,decision diagrams,and/or,aomdds,and/or search,variable elimination,treewidth,belief propagation,weighted,state-of-the-art'
+
+Comunidade 153
+Método: TFIDF
+Medida: INTERMEDIACAO
+Termos:
+'models,network,methods,algorithm,bayesian,approaches,decision,inference,data,causal'
+
+Comunidade 153
+Método: CHI
+Medida: INTERMEDIACAO
+Termos:
+'networks,algorithms,model,bayesian,method,probability,paper,inference,approach,decision'
+
+Comunidade 153
+Método: BNS
+Medida: INTERMEDIACAO
+Termos:
+'bayesian networks,observations,estimation,conditional probability,propagation,parameters,definitions,abstract,cluster,studies'
+
+Comunidade 153
+Método: WRS
+Medida: INTERMEDIACAO
+Termos:
+'components,decision model,dynamic,probabilistic inference,search procedure,statistical data,tractable,random,model,literature'
+
+Comunidade 156
+Método: TFIDF
+Medida: INTERMEDIACAO
+Termos:
+'modeling,network,algorithms,bayesian,processes,variables,bayesian networks,structure,approximation,probability'
+
+Comunidade 156
+Método: CHI
+Medida: INTERMEDIACAO
+Termos:
+'networks,algorithms,model,bayesian,probability,paper,inference,belief,approximations,variables'
+
+Comunidade 156
+Método: BNS
+Medida: INTERMEDIACAO
+Termos:
+'estimation,true,propagation,operations,partition,environments,random variables,generating,technique,knowledge base'
+
+Comunidade 156
+Método: WRS
+Medida: INTERMEDIACAO
+Termos:
+'hidden variables,type,energy,hidden,global,configuration,free energy,computational cost,real,continuous time'
+
+Comunidade 256
+Método: TFIDF
+Medida: INTERMEDIACAO
+Termos:
+'networks,method,influence,diagram,qualitative,probabilistic,influence diagram,tree,probabilities,junction'
+
+Comunidade 256
+Método: CHI
+Medida: INTERMEDIACAO
+Termos:
+'networks,method,inference,probabilistic,structure,data,representation,time,computation,causal'
+
+Comunidade 256
+Método: BNS
+Medida: INTERMEDIACAO
+Termos:
+'inference,partial,true,structure,evaluation,parameters,cluster,studies,steps,empirical evaluation'
+
+Comunidade 256
+Método: WRS
+Medida: INTERMEDIACAO
+Termos:
+'hugin,junction,junction trees,triangulation,architectures,qualitative probabilistic,tree propagation,analysis,influence,level'

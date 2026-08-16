@@ -1,0 +1,239 @@
+Comunidade 6
+Método: TFIDF
+Medida: EXCENTRICIDADE
+Termos:
+'consistent,bounds,arc consistency,arc,constraint,local,argumentation,links,wcsp,cost'
+
+Comunidade 6
+Método: CHI
+Medida: EXCENTRICIDADE
+Termos:
+'algorithms,model,variables,causal,approach,functions,knowledge,constraint,propagation,bounds'
+
+Comunidade 6
+Método: BNS
+Medida: EXCENTRICIDADE
+Termos:
+'tasks,advantage,approach,properties,possibilistic,techniques,variables,algorithms,design,main'
+
+Comunidade 6
+Método: WRS
+Medida: EXCENTRICIDADE
+Termos:
+'consistency,arc consistency,arc,wcsp,bounds consistency,bounds arc consistency,bounds arc,bac,cost variables,arc consistency weighted'
+
+Comunidade 80
+Método: TFIDF
+Medida: EXCENTRICIDADE
+Termos:
+'algorithm,network,bayesian,inference,bayesian networks,persistence,probabilistic,architecture,probability,spi'
+
+Comunidade 80
+Método: CHI
+Medida: EXCENTRICIDADE
+Termos:
+'networks,paper,bayesian,variables,inference,set,approximate,causal,structure,bayesian networks'
+
+Comunidade 80
+Método: BNS
+Medida: EXCENTRICIDADE
+Termos:
+'queries,estimates,sequences,procedure,approximate inference,continuous,random,step,gaussian,performance'
+
+Comunidade 80
+Método: WRS
+Medida: EXCENTRICIDADE
+Termos:
+'technology,concept-based,architecture probabilistic,documents,evidence,retrieval,service,persistent,mechanical,smoothing'
+
+Comunidade 104
+Método: TFIDF
+Medida: EXCENTRICIDADE
+Termos:
+'walker,activities,function,optimal,techniques,users,value function,value,linear,program'
+
+Comunidade 104
+Método: CHI
+Medida: EXCENTRICIDADE
+Termos:
+'linear,functions,optimal,decision,user,probabilistic,queries,policy,value,markov'
+
+Comunidade 104
+Método: BNS
+Medida: EXCENTRICIDADE
+Termos:
+'queries,tasks,advantage,dynamic bayesian,empirical,linear,exact,objective,discovery,linear programming'
+
+Comunidade 104
+Método: WRS
+Medida: EXCENTRICIDADE
+Termos:
+'walker,walker users,mobility,patterns,activity,issues,subjects,comparative,recognition,mdps'
+
+Comunidade 116
+Método: TFIDF
+Medida: EXCENTRICIDADE
+Termos:
+'networks,possibilistic,user,fuzzy,knowledge,bayesian,system,query,bayesian networks,paper'
+
+Comunidade 116
+Método: CHI
+Medida: EXCENTRICIDADE
+Termos:
+'algorithms,networks,method,paper,bayesian,variables,inference,set,approximate,structure'
+
+Comunidade 116
+Método: BNS
+Medida: EXCENTRICIDADE
+Termos:
+'approximate,complexity,distribution,tasks,advantage,context,relationships,dynamic bayesian,pearl,conventional'
+
+Comunidade 116
+Método: WRS
+Medida: EXCENTRICIDADE
+Termos:
+'base,possibilistic,hand,fuzzy,qualitative,possibilistic networks,knowledge representation,imprecise,possibility,diagnosis'
+
+Comunidade 134
+Método: TFIDF
+Medida: EXCENTRICIDADE
+Termos:
+'algorithms,model,policies,optimal,regret,bandits,methods,sample,oupm,feedback'
+
+Comunidade 134
+Método: CHI
+Medida: EXCENTRICIDADE
+Termos:
+'model,set,structure,optimal,decision,user,probabilistic,classes,bounds,sampling'
+
+Comunidade 134
+Método: BNS
+Medida: EXCENTRICIDADE
+Termos:
+'probabilistic,complexity,simple,tasks,advantage,continuous,context,step,dynamic programming,gaussian'
+
+Comunidade 134
+Método: WRS
+Medida: EXCENTRICIDADE
+Termos:
+'oupms,worlds,stochastic,language,inference methods,sampling,bandit,search,regret,factor'
+
+Comunidade 145
+Método: TFIDF
+Medida: EXCENTRICIDADE
+Termos:
+'algorithms,planning,policy,linear,approximation,distributions,function,method,learning,variables'
+
+Comunidade 145
+Método: CHI
+Medida: EXCENTRICIDADE
+Termos:
+'model,method,paper,bayesian,approach,distribution,linear,functions,optimal,data'
+
+Comunidade 145
+Método: BNS
+Medida: EXCENTRICIDADE
+Termos:
+'experiments,complexity,tasks,accuracy,objective,linear programming,family,bayes,compact,bayesian'
+
+Comunidade 145
+Método: WRS
+Medida: EXCENTRICIDADE
+Termos:
+'sweeping,model-based,transitions,dyna-style planning,dyna-style,dyna,linear function approximation,reinforcement,planning,linear function'
+
+Comunidade 151
+Método: TFIDF
+Medida: EXCENTRICIDADE
+Termos:
+'algorithms,inference,market,models,approximate,belief,propagation,predictions,networks,method'
+
+Comunidade 151
+Método: CHI
+Medida: EXCENTRICIDADE
+Termos:
+'networks,method,paper,bayesian,inference,approximate,approach,distribution,linear,optimal'
+
+Comunidade 151
+Método: BNS
+Medida: EXCENTRICIDADE
+Termos:
+'probabilistic,queries,trees,sequences,tasks,procedure,context,random,dynamic bayesian,networks paper'
+
+Comunidade 151
+Método: WRS
+Medida: EXCENTRICIDADE
+Termos:
+'tests,markets,traders,kelly,market price,participants,fractional,prediction,elimination,graphical models'
+
+Comunidade 153
+Método: TFIDF
+Medida: EXCENTRICIDADE
+Termos:
+'algorithms,model,causal,methods,data,constraint,conditional,variables,structure,linear'
+
+Comunidade 153
+Método: CHI
+Medida: EXCENTRICIDADE
+Termos:
+'algorithms,model,method,paper,bayesian,variables,inference,set,causal,structure'
+
+Comunidade 153
+Método: BNS
+Medida: EXCENTRICIDADE
+Termos:
+'probabilistic,queries,dags,advantage,random,dynamic programming,accuracy,asymptotic,linear,approach'
+
+Comunidade 153
+Método: WRS
+Medida: EXCENTRICIDADE
+Termos:
+'non-gaussian,equivalence class,output,arbitrary,component,ling,linear acyclic,independent,sufficient,answers'
+
+Comunidade 156
+Método: TFIDF
+Medida: EXCENTRICIDADE
+Termos:
+'algorithm,model,map,causal,distribution,networks,variables,bayesian,probabilities,convergence'
+
+Comunidade 156
+Método: CHI
+Medida: EXCENTRICIDADE
+Termos:
+'algorithms,model,networks,method,paper,bayesian,variables,inference,set,approximate'
+
+Comunidade 156
+Método: BNS
+Medida: EXCENTRICIDADE
+Termos:
+'probabilistic,complexity,theory,sequences,advantage,context,random,elimination,dynamic programming,gaussian'
+
+Comunidade 156
+Método: WRS
+Medida: EXCENTRICIDADE
+Termos:
+'convex,energies,free energies,convex free,free,graphical models,belief propagation,relaxation,sum-product,graphical'
+
+Comunidade 256
+Método: TFIDF
+Medida: EXCENTRICIDADE
+Termos:
+'graph,networks,parameter,method,algorithm,treewidth,kernel,triangulation,polynomial,bayesian'
+
+Comunidade 256
+Método: CHI
+Medida: EXCENTRICIDADE
+Termos:
+'networks,method,bayesian,bayesian networks,linear,probabilistic,conditional,graph,propagation,bounds'
+
+Comunidade 256
+Método: BNS
+Medida: EXCENTRICIDADE
+Termos:
+'probabilistic,trees,estimates,dags,advantage,cluster,continuous,relationships,dynamic programming,networks paper'
+
+Comunidade 256
+Método: WRS
+Medida: EXCENTRICIDADE
+Termos:
+'clique,triangulation,ceg,probabilistic networks,efficient algorithms,sensitivity analysis,pathwidth,maximum,graph,parameters'

@@ -1,0 +1,239 @@
+Comunidade 6
+Método: TFIDF
+Medida: PAGERANK
+Termos:
+'algorithm,model,probabilities,computational,bayesian,paper,complexity,approach,diagrams,network'
+
+Comunidade 6
+Método: CHI
+Medida: PAGERANK
+Termos:
+'modelling,algorithms,probability,approaches,papers,decision,conditional,bayesian networks,function,distribution'
+
+Comunidade 6
+Método: BNS
+Medida: PAGERANK
+Termos:
+'approaches,independent,nodes,activity,view,negative,outcome,sufficient,function,conditional'
+
+Comunidade 6
+Método: WRS
+Medida: PAGERANK
+Termos:
+'cp-nets,computational complexity,localization,constructive,formalization,link,complexity,notions,reductions,trees'
+
+Comunidade 80
+Método: TFIDF
+Medida: PAGERANK
+Termos:
+'networks,probabilities,bayesian,algorithms,inference,models,bayesian network,probabilistic,reasoning,approximate'
+
+Comunidade 80
+Método: CHI
+Medida: PAGERANK
+Termos:
+'networks,algorithms,bayesian,probability,papers,inference,belief,probabilistic,variables,approximations'
+
+Comunidade 80
+Método: BNS
+Medida: PAGERANK
+Termos:
+'algorithms,belief propagation,partial,alternative,operations,value function,clique,random variables,robust,view'
+
+Comunidade 80
+Método: WRS
+Medida: PAGERANK
+Termos:
+'knowledge engineering,infinitesimal,algorithms algorithm,inference bayesian,qualitative probabilistic,fault,conventional,effort,evidence,multi-valued'
+
+Comunidade 104
+Método: TFIDF
+Medida: PAGERANK
+Termos:
+'model,network,methods,decision,algorithms,belief,approach,function,bayesian,domain'
+
+Comunidade 104
+Método: CHI
+Medida: PAGERANK
+Termos:
+'algorithms,method,bayesian,probability,approaches,papers,decision,belief,probabilistic,variables'
+
+Comunidade 104
+Método: BNS
+Medida: PAGERANK
+Termos:
+'algorithms,joint,nodes,activity,clique,random variables,outcome,question,loopy,classification'
+
+Comunidade 104
+Método: WRS
+Medida: PAGERANK
+Termos:
+'aspects,scheduling,decision process,execution,first-order,techniques,utility functions,semantics,mdps,answer'
+
+Comunidade 116
+Método: TFIDF
+Medida: PAGERANK
+Termos:
+'possibilistic,network,possibility,theory,knowledge,uncertainty,fuzzy,paper,user,logics'
+
+Comunidade 116
+Método: CHI
+Medida: PAGERANK
+Termos:
+'method,approaches,inference,probabilistic,setting,reasoning,knowledge,system,causal,uncertainty'
+
+Comunidade 116
+Método: BNS
+Medida: PAGERANK
+Termos:
+'conditional probability,belief propagation,alternative,joint,special,independent,experiment,robust,integration,classification'
+
+Comunidade 116
+Método: WRS
+Medida: PAGERANK
+Termos:
+'possibilistic,comparative,fuzzy,linguistic,relation,necessity,fuzzy sets,possibility,possibility theory,possibilistic logic'
+
+Comunidade 134
+Método: TFIDF
+Medida: PAGERANK
+Termos:
+'algorithms,optimality,networks,decision,approach,policy,control,model,value,planning'
+
+Comunidade 134
+Método: CHI
+Medida: PAGERANK
+Termos:
+'algorithms,method,probability,papers,decision,variables,approximations,conditional,structure,value'
+
+Comunidade 134
+Método: BNS
+Medida: PAGERANK
+Termos:
+'constraints,statistical,special,performance,independent,nodes,sensitivity analysis,partition,clique,outcome'
+
+Comunidade 134
+Método: WRS
+Medida: PAGERANK
+Termos:
+'heuristic,online,action,quality,solution,items,resource,policy iteration,version,speedups'
+
+Comunidade 145
+Método: TFIDF
+Medida: PAGERANK
+Termos:
+'algorithms,distributions,approximation,policy,variables,linear,method,function,planning,learning'
+
+Comunidade 145
+Método: CHI
+Medida: PAGERANK
+Termos:
+'modelling,approximations,conditional,setting,value,data,function,distribution,optimality,uncertainty'
+
+Comunidade 145
+Método: BNS
+Medida: PAGERANK
+Termos:
+'partial,value function,robust,criterion,linear programming,loopy,conditional,respect,intractable,domain'
+
+Comunidade 145
+Método: WRS
+Medida: PAGERANK
+Termos:
+'key,mdp,hierarchy,bayesian belief network,policy,path,parents,prioritized,features,sample'
+
+Comunidade 151
+Método: TFIDF
+Medida: PAGERANK
+Termos:
+'algorithm,model,and/or,networks,propagation,inference,approximation,sampling,graphical model,graphical'
+
+Comunidade 151
+Método: CHI
+Medida: PAGERANK
+Termos:
+'networks,algorithms,bayesian,inference,belief,bayesian networks,setting,structure,time,representation'
+
+Comunidade 151
+Método: BNS
+Medida: PAGERANK
+Termos:
+'regret,question,sample,novel,relationship,probabilistic networks,mechanisms,average,size,rules'
+
+Comunidade 151
+Método: WRS
+Medida: PAGERANK
+Termos:
+'constraint propagation,hybrid dynamic,decision diagrams,and/or,belief propagation,elimination,aomdds,and/or search,preliminary,activity'
+
+Comunidade 153
+Método: TFIDF
+Medida: PAGERANK
+Termos:
+'model,networks,algorithm,bayesian,method,approach,data,decision,causal,inference'
+
+Comunidade 153
+Método: CHI
+Medida: PAGERANK
+Termos:
+'networks,algorithms,method,bayesian,probability,approaches,papers,decision,inference,probabilistic'
+
+Comunidade 153
+Método: BNS
+Medida: PAGERANK
+Termos:
+'partition,integration,criterion,variable elimination,software,graphical models,respect,intractable,scheme,bayesian networks'
+
+Comunidade 153
+Método: WRS
+Medida: PAGERANK
+Termos:
+'bayesian model,bayesian approach,decision-theoretic,database,score,probabilistic inference,discrepancy,strategy,random,alternative'
+
+Comunidade 156
+Método: TFIDF
+Medida: PAGERANK
+Termos:
+'model,network,algorithm,variable,bayesian,data,paper,causal,condition,probable'
+
+Comunidade 156
+Método: CHI
+Medida: PAGERANK
+Termos:
+'approaches,probabilistic,approximations,conditional,bayesian networks,structure,reasoning,data,function,distribution'
+
+Comunidade 156
+Método: BNS
+Medida: PAGERANK
+Termos:
+'constraints,statistical,random,alternative,true,joint,approaches,experiment,operations,partition'
+
+Comunidade 156
+Método: WRS
+Medida: PAGERANK
+Termos:
+'generative,continuous time,testing,real,discovery,parameters,hidden variables,monitoring,hypothesis,models paper'
+
+Comunidade 256
+Método: TFIDF
+Medida: PAGERANK
+Termos:
+'networks,method,probabilities,probabilistic,qualitative,influence,diagram,tree,influence diagram,bayesian'
+
+Comunidade 256
+Método: CHI
+Medida: PAGERANK
+Termos:
+'networks,method,bayesian,probability,papers,inference,belief,probabilistic,conditional,data'
+
+Comunidade 256
+Método: BNS
+Medida: PAGERANK
+Termos:
+'partial,true,special,complexity,transition,view,integration,sufficient,conditional,sample'
+
+Comunidade 256
+Método: WRS
+Medida: PAGERANK
+Termos:
+'probabilistic networks,junction,junction trees,triangulation,major,negative,detail,elicitation,qualitative probabilistic,influence'

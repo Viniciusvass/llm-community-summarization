@@ -1,0 +1,239 @@
+Comunidade 6
+Método: TFIDF
+Medida: GRAU
+Termos:
+'algorithmic,logic,model,processes,constraints,probability,complexity,inference,consistency,paper'
+
+Comunidade 6
+Método: CHI
+Medida: GRAU
+Termos:
+'algorithms,model,papers,inference,probability,decision,bayesian networks,conditional,distribution,data'
+
+Comunidade 6
+Método: BNS
+Medida: GRAU
+Termos:
+'framework,system,independent,inference,application,parameter,activity,temporal,error,field'
+
+Comunidade 6
+Método: WRS
+Medida: GRAU
+Termos:
+'computational complexity,integration,constructive,candidate,localization,complexity,reductions,intuitive,arbitrary,combination'
+
+Comunidade 80
+Método: TFIDF
+Medida: GRAU
+Termos:
+'network,probabilities,inference,algorithm,approximation,probabilistic,bayesian,knowledge,model,methods'
+
+Comunidade 80
+Método: CHI
+Medida: GRAU
+Termos:
+'networks,bayesian,papers,inference,belief,variables,probabilistic,bayesian networks,approximations,data'
+
+Comunidade 80
+Método: BNS
+Medida: GRAU
+Termos:
+'system,terms,belief,dependency,equivalence,error,powerful,refinement,basic,intuitive'
+
+Comunidade 80
+Método: WRS
+Medida: GRAU
+Termos:
+'conventional,engineering,fault,knowledge engineering,effort,advantages,evidence,positive,software,improved'
+
+Comunidade 104
+Método: TFIDF
+Medida: GRAU
+Termos:
+'method,decision,belief,models,probabilities,network,algorithms,set,game,approaches'
+
+Comunidade 104
+Método: CHI
+Medida: GRAU
+Termos:
+'model,method,bayesian,approach,decision,belief,variables,approximations,distribution,system'
+
+Comunidade 104
+Método: BNS
+Medida: GRAU
+Termos:
+'framework,exact,parameter,logics,activity,error,formal,reinforcement,dominance,intuitive'
+
+Comunidade 104
+Método: WRS
+Medida: GRAU
+Termos:
+'recognition,player,decision process,correct,carlo,monte,monte carlo,difficult,process,collaborative'
+
+Comunidade 116
+Método: TFIDF
+Medida: GRAU
+Termos:
+'possibilistic,logics,uncertainty,qualitative,decisions,network,paper,theory,knowledge,probabilistic'
+
+Comunidade 116
+Método: CHI
+Medida: GRAU
+Termos:
+'inference,probabilistic,setting,reasoning,system,knowledge,uncertainty,independent,propagation,analysis'
+
+Comunidade 116
+Método: BNS
+Medida: GRAU
+Termos:
+'exact,independent,consistent,language,connections,reinforcement,refinement,basic,intuitive,strategy'
+
+Comunidade 116
+Método: WRS
+Medida: GRAU
+Termos:
+'comparative,possibilistic,possibility,relation,transformation,expert systems,logics,classical,fuzzy,qualitative'
+
+Comunidade 134
+Método: TFIDF
+Medida: GRAU
+Termos:
+'algorithm,network,optimality,approach,modeling,control,solution,decision,planning,policy'
+
+Comunidade 134
+Método: CHI
+Medida: GRAU
+Termos:
+'algorithms,method,bayesian,approach,probability,decision,variables,structure,conditional,time'
+
+Comunidade 134
+Método: BNS
+Medida: GRAU
+Termos:
+'system,exact,independent,dependency,consistent,knowledge base,temporal,error,field,reinforcement'
+
+Comunidade 134
+Método: WRS
+Medida: GRAU
+Termos:
+'dec-pomdps,multiagent,heuristic,optimal policy,policy iteration,mre,nonlinear,solution,quality,explicit'
+
+Comunidade 145
+Método: TFIDF
+Medida: GRAU
+Termos:
+'algorithms,distribution,approximation,policy,variables,linear,methods,function,planning,learning'
+
+Comunidade 145
+Método: CHI
+Medida: GRAU
+Termos:
+'bayesian,approach,decision,variables,approximations,conditional,distribution,setting,data,optimality'
+
+Comunidade 145
+Método: BNS
+Medida: GRAU
+Termos:
+'terms,dependency,error,machine,amount,decision,strategy,behavior,bayesian,cost'
+
+Comunidade 145
+Método: WRS
+Medida: GRAU
+Termos:
+'mdp,bayesian belief network,key,random variables,independent,hierarchy,network models,path,limit,features'
+
+Comunidade 151
+Método: TFIDF
+Medida: GRAU
+Termos:
+'algorithm,model,propagation,approximations,inference,networks,belief,market,and/or,graphical model'
+
+Comunidade 151
+Método: CHI
+Medida: GRAU
+Termos:
+'networks,algorithms,method,bayesian,papers,inference,belief,bayesian networks,structure,approximations'
+
+Comunidade 151
+Método: BNS
+Medida: GRAU
+Termos:
+'learning,powerful,context,reinforcement,heuristic,conditional,previous,distribution,size,selection'
+
+Comunidade 151
+Método: WRS
+Medida: GRAU
+Termos:
+'belief propagation,elimination,preliminary,particle,and/or,empirical evaluation,dynamic bayesian networks,location,entropy,propagation'
+
+Comunidade 153
+Método: TFIDF
+Medida: GRAU
+Termos:
+'model,algorithm,bayesian,networks,data,approach,causal,search,conditions,variables'
+
+Comunidade 153
+Método: CHI
+Medida: GRAU
+Termos:
+'algorithms,model,bayesian,approach,inference,probability,decision,structure,conditional,distribution'
+
+Comunidade 153
+Método: BNS
+Medida: GRAU
+Termos:
+'knowledge,domains,markov decision,inference,learning,language,activity,refinement,machine,decision'
+
+Comunidade 153
+Método: WRS
+Medida: GRAU
+Termos:
+'decision-theoretic,sem,density,component,specific,previous,sufficient,variance,search,search algorithm'
+
+Comunidade 156
+Método: TFIDF
+Medida: GRAU
+Termos:
+'model,algorithm,network,events,time,approximations,approach,reasoning,processes,continuous time'
+
+Comunidade 156
+Método: CHI
+Medida: GRAU
+Termos:
+'model,approach,bayesian networks,approximations,data,time,reasoning,domains,tasks,trees'
+
+Comunidade 156
+Método: BNS
+Medida: GRAU
+Termos:
+'domains,consistent,language,knowledge base,error,context,formal,field,machine,statements'
+
+Comunidade 156
+Método: WRS
+Medida: GRAU
+Termos:
+'continuous time,relationship,real,testing,events,discovery,monitoring,observations,continuous,environments'
+
+Comunidade 256
+Método: TFIDF
+Medida: GRAU
+Termos:
+'networks,method,probabilities,probabilistic,qualitative,influence,diagrams,tree,influence diagrams,bayesian'
+
+Comunidade 256
+Método: CHI
+Medida: GRAU
+Termos:
+'networks,method,bayesian,papers,inference,probability,belief,probabilistic,structure,conditional'
+
+Comunidade 256
+Método: BNS
+Medida: GRAU
+Termos:
+'evaluation,domains,terms,application,consistent,temporal,powerful,refinement,scheme,strategy'
+
+Comunidade 256
+Método: WRS
+Medida: GRAU
+Termos:
+'probabilistic networks,major,junction,junction trees,identification,elicitation,triangulation,ambiguous,bayesian belief,treatment'

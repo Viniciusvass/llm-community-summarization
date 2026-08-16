@@ -1,0 +1,239 @@
+Comunidade 6
+Método: TFIDF
+Medida: AUTOVETOR
+Termos:
+'algorithm,probabilities,computational,models,bayesian,complexity,paper,diagrams,logic,decisions'
+
+Comunidade 6
+Método: CHI
+Medida: AUTOVETOR
+Termos:
+'probabilities,approach,inference,decision,reasoner,conditional,distribution,time,computations,function'
+
+Comunidade 6
+Método: BNS
+Medida: AUTOVETOR
+Termos:
+'markov,tree,bounds,cost,original,approach,dynamic,abstract,explanations,possibility theory'
+
+Comunidade 6
+Método: WRS
+Medida: AUTOVETOR
+Termos:
+'cp-nets,consistency cp-nets,computational complexity,formalization,penalty,penalty logic,main,dempster-shafer,notions,constructive'
+
+Comunidade 80
+Método: TFIDF
+Medida: AUTOVETOR
+Termos:
+'network,probabilities,models,bayesian,inference,algorithms,reasoning,approximate,causal,bayesian network'
+
+Comunidade 80
+Método: CHI
+Medida: AUTOVETOR
+Termos:
+'network,modeling,probabilities,bayesian,inference,variables,probabilistic,bayesian network,belief,approximations'
+
+Comunidade 80
+Método: BNS
+Medida: AUTOVETOR
+Termos:
+'actions,size,function,dynamic,rule,user,abstract,elicitation,random variables,default'
+
+Comunidade 80
+Método: WRS
+Medida: AUTOVETOR
+Termos:
+'knowledge engineering,engineering,infinitesimal probability,fault,infinitesimal,diagnostic,qualitative probabilistic,algorithms algorithm,causality models,pearl'
+
+Comunidade 104
+Método: TFIDF
+Medida: AUTOVETOR
+Termos:
+'network,algorithms,models,method,bayesian,decision,distribution,variable,task,process'
+
+Comunidade 104
+Método: CHI
+Medida: AUTOVETOR
+Termos:
+'modeling,algorithm,method,decision,variables,value,distribution,set,representation,knowledge'
+
+Comunidade 104
+Método: BNS
+Medida: AUTOVETOR
+Termos:
+'scheme,size,cost,previous,user,iteration,type,net,memory,steps'
+
+Comunidade 104
+Método: WRS
+Medida: AUTOVETOR
+Termos:
+'intention,games method,intention recognition,collaborative games,recognition,subtasks,player,experiments,decision theoretic,difficult'
+
+Comunidade 116
+Método: TFIDF
+Medida: AUTOVETOR
+Termos:
+'possibilistic,theory,possibility,uncertainty,logic,base,reasoning,knowledge,paper,decisions'
+
+Comunidade 116
+Método: CHI
+Medida: AUTOVETOR
+Termos:
+'modeling,probabilities,paper,probabilistic,belief,conditional,set,knowledge,causal,independence'
+
+Comunidade 116
+Método: BNS
+Medida: AUTOVETOR
+Termos:
+'bounds,special,abstract,alternative,probabilistic,belief,human,paper,dominance,junction'
+
+Comunidade 116
+Método: WRS
+Medida: AUTOVETOR
+Termos:
+'possibility,possibility theory,ordinal,possibilistic,possibilistic logic,possibilistic bases,readings possibilistic,power,classical,readings'
+
+Comunidade 134
+Método: TFIDF
+Medida: AUTOVETOR
+Termos:
+'algorithms,networking,optimal,approach,policy,search,value,decision,resource,models'
+
+Comunidade 134
+Método: CHI
+Medida: AUTOVETOR
+Termos:
+'algorithm,approach,paper,decision,variables,bayesian network,approximations,conditional,value,time'
+
+Comunidade 134
+Método: BNS
+Medida: AUTOVETOR
+Termos:
+'tree,actions,belief network,special,framework,dynamic,type,net,elicitation,positive'
+
+Comunidade 134
+Método: WRS
+Medida: AUTOVETOR
+Termos:
+'optimal policy,heuristic search,stochastic domains,resource,optimal,continuous variables,policy,stochastic,search,experimental'
+
+Comunidade 145
+Método: TFIDF
+Medida: AUTOVETOR
+Termos:
+'variables,distribution,methods,approximations,algorithms,models,parameter,belief,network,learning'
+
+Comunidade 145
+Método: CHI
+Medida: AUTOVETOR
+Termos:
+'probabilities,bayesian,method,approach,paper,variables,belief,approximations,conditional,value'
+
+Comunidade 145
+Método: BNS
+Medida: AUTOVETOR
+Termos:
+'value,tree,cost,approach,subtasks,compact,regression,efficient,probability distributions,accuracy'
+
+Comunidade 145
+Método: WRS
+Medida: AUTOVETOR
+Termos:
+'sample,bayesian belief network,mdp,belief nets,joint distribution,key,random variables,net,response,approximations'
+
+Comunidade 151
+Método: TFIDF
+Medida: AUTOVETOR
+Termos:
+'algorithm,model,and/or,propagation,networks,inference,graphical,graphical model,sampling,approximations'
+
+Comunidade 151
+Método: CHI
+Medida: AUTOVETOR
+Termos:
+'modeling,algorithm,bayesian,inference,paper,probabilistic,belief,time,structure,representation'
+
+Comunidade 151
+Método: BNS
+Medida: AUTOVETOR
+Termos:
+'markov,bounds,main,evidence,previous,subsets,engineering,finite,algorithm,tasks'
+
+Comunidade 151
+Método: WRS
+Medida: AUTOVETOR
+Termos:
+'hybrid dynamic,modeling reasoning,mixed networks,generalized belief propagation,generalized belief,constraint propagation,elimination,belief propagation,ijgp,decision diagrams'
+
+Comunidade 153
+Método: TFIDF
+Medida: AUTOVETOR
+Termos:
+'model,network,bayesian,approach,data,algorithms,search,representation,probability,inference'
+
+Comunidade 153
+Método: CHI
+Medida: AUTOVETOR
+Termos:
+'network,algorithm,bayesian,approach,paper,decision,probabilistic,bayesian network,conditional,time'
+
+Comunidade 153
+Método: BNS
+Medida: AUTOVETOR
+Termos:
+'markov,tree,belief network,size,abstract,positive,memory,steps,diagnostic,player'
+
+Comunidade 153
+Método: WRS
+Medida: AUTOVETOR
+Termos:
+'bayesian model,bayesian approach,dependency networks,decision-theoretic,solvers,strategy,components,visualization,specific,cyclic'
+
+Comunidade 156
+Método: TFIDF
+Medida: AUTOVETOR
+Termos:
+'models,networks,variables,data,algorithms,bayesian,causal,condition,bayesian networks,probabilities'
+
+Comunidade 156
+Método: CHI
+Medida: AUTOVETOR
+Termos:
+'network,algorithm,approach,bayesian network,conditional,time,structure,data,computations,function'
+
+Comunidade 156
+Método: BNS
+Medida: AUTOVETOR
+Termos:
+'actions,belief network,cost,original,main,function,previous,user,abstract,explanations'
+
+Comunidade 156
+Método: WRS
+Medida: AUTOVETOR
+Termos:
+'events continuous time,events continuous,continuous time,hypothesis testing,discovery,real,hypothesis,relationship,noisy-or,events'
+
+Comunidade 256
+Método: TFIDF
+Medida: AUTOVETOR
+Termos:
+'networks,method,probabilistic,probability,qualitative,graph,parameter,influence,probabilistic networks,bayesian'
+
+Comunidade 256
+Método: CHI
+Medida: AUTOVETOR
+Termos:
+'algorithm,probabilities,bayesian,method,inference,probabilistic,belief,value,time,representation'
+
+Comunidade 256
+Método: BNS
+Medida: AUTOVETOR
+Termos:
+'value,size,cost,original,special,dynamic,evidence,possibility theory,treewidth,conditional independence'
+
+Comunidade 256
+Método: WRS
+Medida: AUTOVETOR
+Termos:
+'probabilistic networks,elicitation,qualitative probabilistic networks,major,detail,field,negative,treatment,qualitative probabilistic,triangulation'

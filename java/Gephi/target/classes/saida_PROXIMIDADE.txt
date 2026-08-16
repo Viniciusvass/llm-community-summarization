@@ -1,0 +1,240 @@
+Comunidade 6
+Método: TFIDF
+Medida: PROXIMIDADE
+Termos:
+'consistency,bounds,arc consistency,arc,argumentation,links,localization,wcsp,causal,cost'
+
+Comunidade 6
+Método: CHI
+Medida: PROXIMIDADE
+Termos:
+'algorithms,model,variable,approaches,causal,time,knowledge,functions,constraint,computations'
+
+Comunidade 6
+Método: BNS
+Medida: PROXIMIDADE
+Termos:
+'approaches,propagation,techniques,algorithms,article,quantitative,dependence,true,uncertain,necessity'
+
+Comunidade 6
+Método: WRS
+Medida: PROXIMIDADE
+Termos:
+'consistency,causal model,arc,arc consistency,wcsp,bounds consistency,bounds arc consistency,ontological,bounds arc,soft'
+
+Comunidade 80
+Método: TFIDF
+Medida: PROXIMIDADE
+Termos:
+'network,algorithm,bayesian,spi,query,bayesian network,probabilistic,inference,evidence,architecture'
+
+Comunidade 80
+Método: CHI
+Medida: PROXIMIDADE
+Termos:
+'network,method,bayesian,paper,inference,approximate,set,structure,bayesian network,data'
+
+Comunidade 80
+Método: BNS
+Medida: PROXIMIDADE
+Termos:
+'paper,time,optimization,effective,various,distributions,special,bayesian belief,dynamic bayesian,structure'
+
+Comunidade 80
+Método: WRS
+Medida: PROXIMIDADE
+Termos:
+'technology,concept,knowledge acquisition,acquisition,evidence,retrieval,concept-based,documents,architecture probabilistic,concepts knowledge'
+
+Comunidade 104
+Método: TFIDF
+Medida: PROXIMIDADE
+Termos:
+'activities,walker,optimization,control,users,mobility,techniques,planning,walker users,learning'
+
+Comunidade 104
+Método: CHI
+Medida: PROXIMIDADE
+Termos:
+'variable,probabilistic,functions,optimization,planning,techniques,policy,system,estimation,domains'
+
+Comunidade 104
+Método: BNS
+Medida: PROXIMIDADE
+Termos:
+'exact,effective,task,functions,system,framework,assignment,classical,programming,continuous'
+
+Comunidade 104
+Método: WRS
+Medida: PROXIMIDADE
+Termos:
+'walker,mobility,walker users,users,control,subjects,context,recognition,probabilistic models,comparative'
+
+Comunidade 116
+Método: TFIDF
+Medida: PROXIMIDADE
+Termos:
+'networks,logics,uncertainty,knowledge,fuzzy,bayesian,bayesian networks,paper,system,setting'
+
+Comunidade 116
+Método: CHI
+Medida: PROXIMIDADE
+Termos:
+'network,bayesian,paper,inference,belief,set,structure,bayesian network,uncertainty,knowledge'
+
+Comunidade 116
+Método: BNS
+Medida: PROXIMIDADE
+Termos:
+'belief,effective,dynamic bayesian,bayes,structure,decision,previous,inference,queries,users'
+
+Comunidade 116
+Método: WRS
+Medida: PROXIMIDADE
+Termos:
+'fuzzy,necessity,possibilistic,multiple-valued,multiple-valued logics,modules,communication,uncertainty,knowledge,logics'
+
+Comunidade 134
+Método: TFIDF
+Medida: PROXIMIDADE
+Termos:
+'algorithm,planning,methods,policy,multi-objective,models,solution,sequential,earthquake,time'
+
+Comunidade 134
+Método: CHI
+Medida: PROXIMIDADE
+Termos:
+'algorithms,time,optimization,learning,planning,solution,policy,values,domains,events'
+
+Comunidade 134
+Método: BNS
+Medida: PROXIMIDADE
+Termos:
+'optimization,effective,experiments,space,events,dependence,random,hybrid,programming,time'
+
+Comunidade 134
+Método: WRS
+Medida: PROXIMIDADE
+Termos:
+'planning,planning learning,dec-pomdps,multi-objective,sequential decision-making,scalarization,single-objective,multiagent,sequential,policy'
+
+Comunidade 145
+Método: TFIDF
+Medida: PROXIMIDADE
+Termos:
+'approximation,method,variables,distributions,models,algorithm,linear,planning,belief,networks'
+
+Comunidade 145
+Método: CHI
+Medida: PROXIMIDADE
+Termos:
+'algorithms,model,network,method,bayesian,variable,paper,inference,belief,approaches'
+
+Comunidade 145
+Método: BNS
+Medida: PROXIMIDADE
+Termos:
+'time,tree,approaches,optimization,constraint,convex,markov,propagation,network,set'
+
+Comunidade 145
+Método: WRS
+Medida: PROXIMIDADE
+Termos:
+'parameters random variables,belief net,conditional probabilities,variance,parameters random,sweeping,model-based,belief network models,belief net responses,dyna-style planning'
+
+Comunidade 151
+Método: TFIDF
+Medida: PROXIMIDADE
+Termos:
+'algorithms,market,inference,belief,models,prediction,networks,trader,propagation,approximate'
+
+Comunidade 151
+Método: CHI
+Medida: PROXIMIDADE
+Termos:
+'algorithms,network,method,variable,paper,inference,belief,approaches,approximate,set'
+
+Comunidade 151
+Método: BNS
+Medida: PROXIMIDADE
+Termos:
+'time,acyclic,graph,algorithms,set,distributions,space,sampling,online,simple'
+
+Comunidade 151
+Método: WRS
+Medida: PROXIMIDADE
+Termos:
+'prediction,elimination,markets,traders,kelly,price,market price,participants,individual,fractional'
+
+Comunidade 153
+Método: TFIDF
+Medida: PROXIMIDADE
+Termos:
+'algorithm,models,causal,method,data,constraint,variables,conditions,linear,distributions'
+
+Comunidade 153
+Método: CHI
+Medida: PROXIMIDADE
+Termos:
+'algorithms,model,method,bayesian,paper,inference,belief,approaches,set,structure'
+
+Comunidade 153
+Método: BNS
+Medida: PROXIMIDADE
+Termos:
+'belief,optimization,markov,common,complexity,various,techniques,algorithms,sampling,expert'
+
+Comunidade 153
+Método: WRS
+Medida: PROXIMIDADE
+Termos:
+'non-gaussian,sufficient,spirtes,output,useful,pearl,ling,components analysis shimizu,ling discovery,linear acyclic'
+
+Comunidade 156
+Método: TFIDF
+Medida: PROXIMIDADE
+Termos:
+'model,algorithm,map,events,convex,network,time,belief,relaxation,testing'
+
+Comunidade 156
+Método: CHI
+Medida: PROXIMIDADE
+Termos:
+'model,network,inference,belief,approaches,approximate,data,distributions,linear,map'
+
+Comunidade 156
+Método: BNS
+Medida: PROXIMIDADE
+Termos:
+'approaches,markov,discrete,gaussian,result,techniques,distributions,sampling,online,probability'
+
+Comunidade 156
+Método: WRS
+Medida: PROXIMIDADE
+Termos:
+'hypothesis,hypothesis testing,fitting,events continuous,events continuous time,continuous time,changes,detection,real data,model algorithm'
+
+Comunidade 256
+Método: TFIDF
+Medida: PROXIMIDADE
+Termos:
+'graph,networks,parameter,method,algorithm,treewidth,kernel,triangulation,polynomial,bayesian'
+
+Comunidade 256
+Método: CHI
+Medida: PROXIMIDADE
+Termos:
+'model,network,method,bayesian,paper,approaches,structure,bayesian network,probabilistic,linear'
+
+Comunidade 256
+Método: BNS
+Medida: PROXIMIDADE
+Termos:
+'paper,time,approaches,acyclic,result,model,sampling,special,simple,quantitative'
+
+Comunidade 256
+Método: WRS
+Medida: PROXIMIDADE
+Termos:
+'bns,triangulation,ceg,clique,parameter,sensitivity,propagation algorithms,potentials,probabilistic networks,graph'
+
