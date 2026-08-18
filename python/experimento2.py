@@ -121,7 +121,7 @@ for s in sumarios:
     P, R, F1 = bert_score(
         [sumario],
         [gabarito],
-        lang="pt",
+        lang="en",
         verbose=False
     )
 
